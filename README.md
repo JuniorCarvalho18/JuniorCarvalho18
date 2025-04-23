@@ -22,7 +22,7 @@ Universitary Developer (currently working with React.js and Node.js). Developing
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=teteusaraujo&layout=compact&langs_count=7&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorCarvaho18&layout=compact&langs_count=7&theme=dracula"
     />
   </a>
   <a href="h
