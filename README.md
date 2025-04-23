@@ -4,7 +4,8 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/)](https://pt.stackoverflow.com/)
 [![Outlook Badge](https://img.shields.io/badge/-outlook-c14438?style=for-the-badge&logo=outlook&logoColor=white&link=mailto:laerciojrcarvalho18@outlook.com)](mailto:laerciojrcarvalho18@outlook.com)
 
-> :octocat:  ## Hello! <img src="https://github.com/JuniorCarvalho18/lucasgdb/blob/master/assets/hi.gif" width="22">
+> :octocat:
+  ## Hello! <img src="https://github.com/JuniorCarvalho18/lucasgdb/blob/master/assets/hi.gif" width="22">
 
 Universitary Developer (currently working with React.js and Node.js). Developing scalable and robust solutions.
 
