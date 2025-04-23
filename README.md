@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://linkedin.com/in/la%C3%A9rcio-c-de-carvalho-junior-8b27a1195/)](https://linkedin.com/in/la%C3%A9rcio-c-de-carvalho-junior-8b27a1195/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/)](https://pt.stackoverflow.com/)
-[![Outlook Badge](https://img.shields.io/badge/-Outlook-c14438?style=for-the-badge&logo=Outlook&logoColor=white&link=mailto:laerciojrcarvalho18@outlook.com)](mailto:laerciojrcarvalho18@outlook.com)
+[![Outlook Badge](https://img.shields.io/badge/-outlook-c14438?style=for-the-badge&logo=outlook&logoColor=white&link=mailto:laerciojrcarvalho18@outlook.com)](mailto:laerciojrcarvalho18@outlook.com)
 
 ## Hello! <img src="https://github.com/JuniorCarvalho18/lucasgdb/blob/master/assets/hi.gif" width="22">
 
