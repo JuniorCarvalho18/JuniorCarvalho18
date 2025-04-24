@@ -1,7 +1,7 @@
 # 🛠👨‍💻 Junior Carvalho
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://linkedin.com/in/la%C3%A9rcio-c-de-carvalho-junior-8b27a1195/)](https://linkedin.com/in/la%C3%A9rcio-c-de-carvalho-junior-8b27a1195/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/)](https://pt.stackoverflow.com/)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/431696/junior-carvalho)](https://pt.stackoverflow.com/users/431696/junior-carvalho)
 [![Outlook Badge](https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=Outlook&logoColor=blue&link=mailto:laerciojrcarvalho18@outlook.com)](mailto:laerciojrcarvalho18@outlook.com)
 
 > :octocat:
