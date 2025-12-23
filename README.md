@@ -46,7 +46,7 @@ Universitary Developer (currently working with React.js and Node.js). Developing
   ![CSS3](https://img.shields.io/badge/CSS3-%23663399.svg?style=flat-square&logo=css&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
   ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
   ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
   ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
   ![Ionic](https://img.shields.io/badge/-Ionic-45b8d8?style=flat-square&logo=ionic&logoColor=white)
