@@ -11,7 +11,7 @@
 Universitary Developer (currently working with React.js and .Net). Developing scalable and robust solutions.
 
 - :office_worker: Web Developer
-- :blue_heart: Stack: ReactJS, NodeJS and MySQL
+- :blue_heart: Stack: ReactJS, .Net and MySQL
 - :books: Learning: Atomic Design, Clean Architecture and Design System
 
 
