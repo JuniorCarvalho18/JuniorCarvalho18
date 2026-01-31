@@ -33,7 +33,7 @@ Universitary Developer (currently working with React.js and .Net). Developing sc
   
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=LaercioJabil" alt="Trophies" />
+      <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=JuniorCarvalho18" alt="Trophies" />
     </a>
   </p>
 
