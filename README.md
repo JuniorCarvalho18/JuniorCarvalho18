@@ -20,18 +20,15 @@ Universitary Developer (currently working with React.js and .Net). Developing sc
   <summary> <b> Know more about me </b> <i>(Click here to expand)</i> </summary>
   <br>
   
-  <p align="center">
     <a href="https://github.com/JuniorCarvalho18">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorCarvalho18&layout=compact&langs_count=7&theme=dracula" />
     </a>
     <a href="https://github.com/JuniorCarvalho18">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuniorCarvalho18&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
     </a>
-  </p>
   
-  <p align="center">
+
     <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=JuniorCarvalho18" alt="Trophies" />
-  </p>
 
   ## Some technologies
 
