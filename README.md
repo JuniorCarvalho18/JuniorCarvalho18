@@ -6,15 +6,13 @@
 [![Outlook Badge](https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=Outlook&logoColor=blue&link=mailto:laerciojrcarvalho18@outlook.com)](mailto:laerciojrcarvalho18@outlook.com)
 
 > :octocat:
-  ## Hello! <img src="https://github.com/JuniorCarvalho18/lucasgdb/blob/master/assets/hi.gif" width="22">
+  ## Hello! <img src="https://raw.githubusercontent.com/JuniorCarvalho18/lucasgdb/master/assets/hi.gif" width="22">
 
 Universitary Developer (currently working with React.js and .Net). Developing scalable and robust solutions.
 
 - :office_worker: Web Developer
 - :blue_heart: Stack: ReactJS, .Net and MySQL
 - :books: Learning: Atomic Design, Clean Architecture and Design System
-
-
 
 ---
 
@@ -23,18 +21,12 @@ Universitary Developer (currently working with React.js and .Net). Developing sc
   <br>
   
   <p align="center">
-    <a href="https://github.com/JuniorCarvalho18">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorCarvalho18&layout=compact&langs_count=7&theme=dracula" />
-    </a>
-    <a href="https://github.com/JuniorCarvalho18">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuniorCarvalho18&show_icons=true&count_private=true&theme=radical&hide=issues" />
-    </a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorCarvalho18&layout=compact&langs_count=7&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuniorCarvalho18&show_icons=true&theme=radical&hide=issues" />
   </p>
   
   <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=JuniorCarvalho18" alt="Trophies" />
-    </a>
+    <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=JuniorCarvalho18" alt="Trophies" />
   </p>
 
   ## Some technologies
