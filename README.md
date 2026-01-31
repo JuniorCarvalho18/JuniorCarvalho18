@@ -1,7 +1,7 @@
 # 🛠👨‍💻 Junior Carvalho
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&link=https://juniorcarvalho18.github.io/Portfolio/)](https://juniorcarvalho18.github.io/Portfolio/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://linkedin.com/in/la%C3%A9rcio-c-de-carvalho-junior-8b27a1195/)](https://linkedin.com/in/la%C3%A9rcio-c-de-carvalho-junior-8b27a1195/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/la%C3%A9rcio-c-de-carvalho-junior-8b27a1195/)](https://linkedin.com/in/la%C3%A9rcio-c-de-carvalho-junior-8b27a1195/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/431696/junior-carvalho)](https://pt.stackoverflow.com/users/431696/junior-carvalho)
 [![Outlook Badge](https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=Outlook&logoColor=blue&link=mailto:laerciojrcarvalho18@outlook.com)](mailto:laerciojrcarvalho18@outlook.com)
 
@@ -21,22 +21,19 @@ Universitary Developer (currently working with React.js and .Net). Developing sc
 <details>
   <summary> <b> Know more about me </b> <i>(Click here to expand)</i> </summary>
   <br>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorCarvalho18&layout=compact&langs_count=7&theme=dracula"
-    />
-  </a>
-  <a href="h
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuniorCarvalho18&show_icons=true&count_private=true&theme=radical&hide=issues" />
-  </a>
-  
----
   
   <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=JuniorCarvalho18" alt="Trophies" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaercioJabil&layout=compact&langs_count=7&theme=dracula" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=LaercioJabil&show_icons=true&count_private=true&theme=radical&hide=issues" />
+    </a>
+  </p>
+  
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=LaercioJabil" alt="Trophies" />
     </a>
   </p>
 
