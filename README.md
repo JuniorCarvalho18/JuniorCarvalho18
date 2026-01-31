@@ -23,10 +23,10 @@ Universitary Developer (currently working with React.js and .Net). Developing sc
   <br>
   
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/JuniorCarvalho18">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorCarvalho18&layout=compact&langs_count=7&theme=dracula" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/JuniorCarvalho18">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuniorCarvalho18&show_icons=true&count_private=true&theme=radical&hide=issues" />
     </a>
   </p>
