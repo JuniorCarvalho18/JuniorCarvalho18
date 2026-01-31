@@ -20,7 +20,7 @@ Universitary Developer (currently working with React.js and .Net). Developing sc
   <summary> <b> Know more about me </b> <i>(Click here to expand)</i> </summary>
   <br>
 
-  <p align="center">
+  <p>
     <a href="https://github.com/JuniorCarvalho18">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorCarvalho18&layout=compact&langs_count=7&theme=dracula" />
     </a>
@@ -29,7 +29,7 @@ Universitary Developer (currently working with React.js and .Net). Developing sc
     </a>
   </p>
 
-  <p align="center">
+  <p>
     <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=JuniorCarvalho18" alt="Trophies" />
   </p>
   
