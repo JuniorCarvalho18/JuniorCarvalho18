@@ -8,10 +8,10 @@
 > :octocat:
   ## Hello! <img src="https://raw.githubusercontent.com/JuniorCarvalho18/lucasgdb/master/assets/hi.gif" width="22">
 
-Universitary Developer (currently working with React.js and .Net). Developing scalable and robust solutions.
+Universitary Developer (currently working with React and DotNet). Developing scalable and robust solutions.
 
 - :office_worker: Web Developer
-- :blue_heart: Stack: ReactJS, .Net and MySQL
+- :blue_heart: Stack: React, DotNet and MySQL
 - :books: Learning: Atomic Design, Clean Architecture and Design System
 
 ---
